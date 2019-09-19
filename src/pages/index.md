@@ -2,8 +2,8 @@
 templateKey: index-page
 title: hola a todos
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: estas
+subheading: como estas
 mainpitch:
   title: Why Kaldi
   description: >
